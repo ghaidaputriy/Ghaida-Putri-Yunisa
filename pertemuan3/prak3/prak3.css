@@ -1,0 +1,22 @@
+.div-pertama{
+    background-color: lightcoral;
+}
+
+.div-kedua {
+    background-color:lightblue;
+}
+
+.div-ketiga{
+    background-color: lightgreen;
+    display: flex;
+    /* agar tulisannya bisa diatur */
+    justify-content: space-evenly;
+}
+
+.div-ketiga1{
+    background-color: pink;
+}
+
+.div-ketiga2{
+    background-color: lightsalmon;
+}

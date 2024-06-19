@@ -1,0 +1,26 @@
+*{
+    background-color: lightgoldenrodyellow;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.container1{
+    width: 60%;
+    display: flex;
+}
+
+.img{
+    width: 320px;
+    height: 200px;
+    border-radius: 20px;
+    display: flex;
+}
+
+.container2{
+    padding-left: 10px;
+    text-align: justify;
+}

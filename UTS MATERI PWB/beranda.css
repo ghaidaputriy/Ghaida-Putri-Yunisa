@@ -1,0 +1,86 @@
+.container{
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    height: 85px;
+    background-color: #EFBC9B 	;
+
+    font-size: 25px;
+    font-weight: bold;
+
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainpage{
+    width: 40%;
+    height: 650px;
+    background-color: #D6DAC8;
+    
+    border: 1px solid black;
+    margin: 2px 0 0 2px;
+    padding: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kanan{
+    width: 30%;
+    height: 450px;
+    background-color: #FBF3D5;
+
+    border: 1px solid black;
+    margin: 2px 0 0 2px;
+    padding: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: scroll;
+    padding-top: 200px;
+}
+
+.img{
+    width : 150px;
+    height : 230px;
+    border-radius: 20px;
+    
+    display : flex;
+    margin-left : auto;
+    margin-right :auto;
+    margin-bottom: 10px;
+
+}
+
+.kiri{
+    width: 30%;
+    height: 450px;
+    background-color: #FBF3D5;
+
+    border: 1px solid black;
+    margin: 2px 0 0 2px;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    height: 650px;
+}
+
+.footer{
+    width: 100%;
+    height: 50px;
+    background-color: #EFBC9B;
+
+    border: 1px solid black;
+    margin: 2px 0 0 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+}

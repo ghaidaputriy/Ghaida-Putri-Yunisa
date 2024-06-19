@@ -1,0 +1,82 @@
+.container{
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    height: 85px;
+    background-color: #E78895 	;
+
+    font-size: 25px;
+    font-weight: bold;
+
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainpage{
+    width: 40%;
+    height: 450px;
+    background-color: #FFF7F1;
+    
+    border: 1px solid black;
+    margin: 2px 0 0 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kanan{
+    width: 30%;
+    height: 450px;
+    background-color: #FFE4C9;
+
+    border: 1px solid black;
+    margin: 2px 0 0 2px;
+    padding: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.img{
+    width : 150px;
+    height : 230px;
+    border-radius: 20px;
+    
+    display : flex;
+    margin-left : auto;
+    margin-right : auto;
+    margin-bottom: 10px;
+
+}
+
+.kiri{
+    width: 30%;
+    height: 450px;
+    background-color: #FFE4C9;
+
+    border: 1px solid black;
+    margin: 2px 0 0 2px;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+}
+
+.footer{
+    width: 100%;
+    height: 50px;
+    background-color: #E78895;
+
+    border: 1px solid black;
+    margin: 2px 0 0 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+}
